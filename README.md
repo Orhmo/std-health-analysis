@@ -149,5 +149,5 @@ The disease images load from Google Drive, so an internet connection is needed f
 
 ## Author
 
-**Valentina Oguka (Star)**
+**Orhmo**
 GitHub: [Orhmo](https://github.com/Orhmo)
